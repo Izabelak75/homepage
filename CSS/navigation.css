@@ -1,0 +1,32 @@
+/* blok .navigation */
+
+.navigation__list {
+  list-style: none;
+  padding: 10px 0;
+  border-top: 4px dotted #3d2902;
+  border-bottom: 4px dotted #3d2902;
+  margin: 25px 0;
+}
+
+.navigation__item {
+  margin: 10px 0;
+}
+
+.navigation__link {
+  text-decoration: none;
+  color: #190546;
+}
+
+.navigation__link:focus {
+  color: currentColor;
+}
+
+.navigation__link:hover{
+  color: #f80f0f;
+  border-bottom: 1px solid #054609;
+  outline: none;
+}
+
+.navigation__link:active {
+  color: #adf5b3;
+}

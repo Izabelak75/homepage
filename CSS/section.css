@@ -1,0 +1,7 @@
+/* blok .section */
+.section {
+  padding: 5px;
+}
+.section__title{
+  color: #221701;
+}
