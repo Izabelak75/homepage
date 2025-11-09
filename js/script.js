@@ -1,4 +1,3 @@
-console.log("Hello everyone");
 
 let button = document.querySelector(".button");
 let body = document.body;
