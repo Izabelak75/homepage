@@ -1,6 +1,6 @@
 # About Me Website
 
-This is my first personal website created as part of my learning journey in **Fundamentals of Web Development**. 
+This is my first personal website created as part of my learning journey in **the fundamentals of Front-end Development**. 
 It presents information about my **passions**, **favorite books**, and a small **JavaScript interaction** that I built myself. 
 
 ---
@@ -61,7 +61,7 @@ In addition to art, I enjoy reading **motivational, business, and psychological 
 ![Homepage Preview](images/share_small.png)
  **Live Demo / GitHub Pages:** [https://izabelak75.github.io/homepage](https://izabelak75.github.io/homepage) 
  **Project Repository:** [https://github.com/Izabelak75/homepage](https://github.com/Izabelak75/homepage)
-
+![How to interact with the page](images/homepage_demo.gif)
 ---
 
 ##  Future Improvements
@@ -81,7 +81,3 @@ A creative person passionate about art, handcraft, and lifelong learning.
 
 ---
 
-###  Notes
-
-- Image `share-small.png` is used for social media preview and README display 
-- Created as part of personal learning and experimentation 
