@@ -27,8 +27,6 @@ The language of the page is **Polish**.
 - Clean, minimal design with personal content 
 - Added image for preview and social sharing 
 
-![Homepage Preview](images/share-small.png)
-
 ---
 
 ##  Functionality
@@ -59,8 +57,8 @@ In addition to art, I enjoy reading **motivational, business, and psychological 
 ---
 
 
-##  Demo & Live Preview
-
+##  Demo & Homepage Preview
+![Homepage Preview](images/share_small.png)
  **Live Demo / GitHub Pages:** [https://izabelak75.github.io/homepage](https://izabelak75.github.io/homepage) 
  **Project Repository:** [https://github.com/Izabelak75/homepage](https://github.com/Izabelak75/homepage)
 
