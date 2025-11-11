@@ -57,11 +57,10 @@ In addition to art, I enjoy reading **motivational, business, and psychological 
 ---
 
 
-##  Demo & Homepage Preview
+##  Homepage Preview
 ![Homepage Preview](images/share_small.png)
  **Live Demo / GitHub Pages:** [https://izabelak75.github.io/homepage](https://izabelak75.github.io/homepage) 
- **Project Repository:** [https://github.com/Izabelak75/homepage](https://github.com/Izabelak75/homepage)
-![How to interact with the page](images/homepage_demo.gif)
+
 ---
 
 ##  Future Improvements
@@ -80,4 +79,6 @@ A creative person passionate about art, handcraft, and lifelong learning.
 > “Every artwork I create has its own small story and soul.” 
 
 ---
+## Demo Preview
 
+![How to interact with the page](images/homepage_demo.gif)
