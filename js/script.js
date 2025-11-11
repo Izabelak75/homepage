@@ -1,15 +1,20 @@
 
 
-let button = document.querySelector(".button");
-let body = document.body;
+const INIT_TEXT = "Ciekawostka";
+const INIT_COLOR = "#3b7e3bff";
+const CLICKED_TEXT = "Każde arcydzieło, które tworzę, ma swoją małą historię i duszę.";
+const CLICKED_COLOR = "#94a728ff";
 
+const button = document.querySelector(".button");
 
-button.addEventListener("click", () => {
-    if (button.innerText === "Ciekawostka") {
-        button.innerText = "Każde arcydzieło, które tworzę, ma swoją małą historię i duszę.";
-        button.style.backgroundColor = "#94a728ff"; 
+function toggleButtonTextAndColor() {
+    if (button.innerText === INIT_TEXT) {
+        button.innerText = CLICKED_TEXT;
+        button.style.backgroundColor = CLICKED_COLOR;
     } else {
-        button.innerText = "Ciekawostka";
-        button.style.backgroundColor = "#3b7e3bff"; 
+        button.innerText = INIT_TEXT;
+        button.style.backgroundColor = INIT_COLOR;
     }
-});
+}
+
+button.addEventListener("click", toggleButtonTextAndColor);
